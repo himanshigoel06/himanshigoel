@@ -48,28 +48,24 @@ or just see how someone else is figuring it all out—you're in the right place!
 
 ## 💻 Tech Stack  
 
-### 🔹 Programming & Analytics  
-<img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4EADF1?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+</p>
 
-### 🔹 Databases  
-<img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-
-### 🔹 BI & Visualization  
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Matplotlib-003B57?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4EADF1?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-239120?logo=plotly&logoColor=white" />
-
-### 🔹 Tools  
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 
 ---
 
