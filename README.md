@@ -55,7 +55,6 @@ or just see how someone else is figuring it all out—you're in the right place!
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Matplotlib-003B57?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4EADF1?logo=python&logoColor=white" />
