@@ -76,11 +76,6 @@ or just see how someone else is figuring it all out—you're in the right place!
 
 ---
 
-## 🐍 GitHub Contribution Snake  
-<img src="https://raw.githubusercontent.com/himanshigoel06/himanshigoel06/output/github-contribution-grid-snake.svg" />
-
----
-
 ## 💗 Thank You for Visiting!  
 Let’s connect, learn, and grow—  
 **one repo at a time.**  
