@@ -11,7 +11,6 @@
 I'm passionate about growing in my career, picking up new tech skills,  
 and making work life a little less overwhelming (and a lot more fun).  
 <br><br>
-
 Here, you'll find:  
 🛠️ Projects I'm building or contributing to  
 <br>
@@ -19,7 +18,6 @@ Here, you'll find:
 <br>
 🌱 Bits of inspiration for anyone trying to survive—and thrive—in the corporate jungle  
 <br><br>
-
 Whether you're here to find useful code, get inspired,  
 or just see how someone else is figuring it all out—you're in the right place! ✨
 </p>
@@ -27,11 +25,10 @@ or just see how someone else is figuring it all out—you're in the right place!
 ---
 
 ## 🌼 About Me  
-- 💼 **Data Analyst with 2.6 years of experience**  
-- 🧃 Worked on the **PepsiCo Project at HCL**  
+- 💼 Data Analyst with **2.6+ years of experience**  
+- 🧃 Worked at **HCL Technologies**  
 - 🎀 Passionate about **SQL, Power BI, Python, DAX & real-world problem solving**  
 - 🌱 Currently growing in **automation, dashboards & advanced analytics**  
-- 🗣️ I speak **English | Hindi | Punjabi**  
 - 💬 Ask me about **Data Analysis, SQL queries, DAX, Power BI dashboards**  
 - 💖 Fun fact: I love creating **aesthetic designs** when I’m not debugging 🎨✨  
 
@@ -94,4 +91,3 @@ Let’s connect, learn, and grow—
 **one repo at a time.**  
 <br>
 You bring the snacks, I’ll bring the code 🍪💻  
-
