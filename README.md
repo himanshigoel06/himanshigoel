@@ -35,14 +35,9 @@ or just see how someone else is figuring it all out—you're in the right place!
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/himanshigoel06">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/himanshigoel_06">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/himanshigoel_06?igsh=bXF4aHd1emt2N3h4&utm_source=qr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/himanshigoel06)
 
 ---
 
