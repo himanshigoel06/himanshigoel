@@ -25,7 +25,7 @@ or just see how someone else is figuring it all out—you're in the right place!
 ---
 
 ## 🌼 About Me  
-- 💼 Data Analyst with **2.6+ years of experience**  
+- 💼 Senior Analyst with **2.6+ years of experience**  
 - 🧃 Worked at **HCL Technologies**  
 - 🎀 Passionate about **SQL, Power BI, Python, DAX & real-world problem solving**  
 - 🌱 Currently growing in **automation, dashboards & advanced analytics**  
